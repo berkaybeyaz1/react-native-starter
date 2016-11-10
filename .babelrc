@@ -1,0 +1,9 @@
+{
+ 'plugins': ["transform-decorators-legacy"],
+  "presets": ["babel-preset-exponent", "react-native"],
+  "env": {
+    "development": {
+      "plugins": ["transform-react-jsx-source"]
+    }
+  }
+}
