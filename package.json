@@ -2,7 +2,7 @@
   "name": "react-native-starter",
   "version": "0.0.0",
   "description": "Hello React Native Starter!",
-  "author": "Berkay Beyaz <beyazberkay407@gmail.com> (http://berkay.beyaz.us/)"
+  "author": "Berkay Beyaz <beyazberkay407@gmail.com> (http://berkay.beyaz.us/)",
   "private": true,
   "main": "main.js",
   "dependencies": {
