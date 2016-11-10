@@ -1,6 +1,7 @@
 # React Native Starter Pack
 React Native starter pack with mobx and ex-navigator also you can working with exponent.
-
+## Screenshot
+<img src="http://berkay.beyaz.us/wp-content/uploads/2016/11/Photo-Nov-10-21-59-00.png" height="400" align="middle" />
 ## [Mobx](http://mobxjs.github.io/mobx/)<img src="http://mobxjs.github.io/mobx/docs/mobx.png" width="200px" height="200px" align="left" />
 MobX is a battle tested library that makes state management simple and scalable by transparently applying functional reactive programming (TFRP). The philosophy behind MobX is very simple:Anything that can be derived from the application state, should be derived. Automatically.which includes the UI, data serialization, server communication, etc.
 
