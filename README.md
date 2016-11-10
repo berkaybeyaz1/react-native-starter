@@ -1,15 +1,14 @@
 # React Native Starter Pack
 React Native starter pack with mobx and ex-navigator also you can working with exponent.
-## Screenshot
-<img src="http://berkay.beyaz.us/wp-content/uploads/2016/11/Photo-Nov-10-21-59-00.png" height="400" align="middle" />
+
 ## [Mobx](http://mobxjs.github.io/mobx/)<img src="http://mobxjs.github.io/mobx/docs/mobx.png" width="200px" height="200px" align="left" />
 MobX is a battle tested library that makes state management simple and scalable by transparently applying functional reactive programming (TFRP). The philosophy behind MobX is very simple:Anything that can be derived from the application state, should be derived. Automatically.which includes the UI, data serialization, server communication, etc.
-
-
 
 ## [Ex-navigation](https://github.com/exponentjs/ex-navigation)
 <img src="https://d3lwq5rlu14cro.cloudfront.net/v1/AQ5jDS5SYyUkapWWEviV.png" width="200px" align="left" />
 A route-centric, batteries-included navigation library for Exponent and React Native that works seamlessly on Android and iOS.
+## Screenshot
+<img src="http://berkay.beyaz.us/wp-content/uploads/2016/11/Photo-Nov-10-21-59-00.png" height="400" align="middle" />
 ## Installation
 Firstly clone this repo `git clone https://github.com/berkaybeyaz1/react-native-starter.git` then install some dependency with `npm install` command and that's it 😁
 ### Future Plans
