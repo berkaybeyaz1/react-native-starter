@@ -10,7 +10,7 @@ A route-centric, batteries-included navigation library for Exponent and React Na
 ## Screenshot
 <img src="http://berkay.beyaz.us/wp-content/uploads/2016/11/Photo-Nov-10-21-59-00.png" height="400" align="middle" />
 ## Installation
-Firstly clone this repo `git clone https://github.com/berkaybeyaz1/react-native-starter.git` then install some dependency with `npm install` command and that's it 😁
+Firstly clone this repo `git clone https://github.com/berkaybeyaz1/react-native-starter.git` then install some dependency with `npm install or yarn install` command and that's it 😁
 ### Future Plans
 - [ ] CLI tool like angular cli tool (creating, pages, components, actions etc..) ☄
 
